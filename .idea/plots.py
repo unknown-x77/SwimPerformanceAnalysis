@@ -10,8 +10,8 @@ def filter(): # Select the event and the course type
 
 
 def overview_plot(): # Shows the current filter on the graph
-
+    pass
 def splits_plot(): # Shows after a specific event on a date was selected
-
+    pass
 
 
