@@ -14,7 +14,6 @@ class Event:
     course: str
 
 
-
 @dataclass
 class Result:
     swimmer: Swimmer
